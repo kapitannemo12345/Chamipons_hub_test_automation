@@ -5,9 +5,6 @@ Resource    ../Pages_locators/login_cred.robot
 Resource    ../Pages_locators/home.robot
 
 
-*** Variables ***
-
-#${homepage}  https://championshub.app/
 
 *** Test Cases ***
 Successful login attempt
