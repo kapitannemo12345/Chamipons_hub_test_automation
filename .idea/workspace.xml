@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22168752-f017-496e-8d72-4fa51ea56ed9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Champions_chub.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Locators/login_page.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/Login/login_test.py" afterDir="false" />
+    <list default="true" id="22168752-f017-496e-8d72-4fa51ea56ed9" name="Changes" comment="another comment cleanup">
+      <change afterPath="$PROJECT_DIR$/Common/common.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/login_failed_attempt.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/Login/login_correct.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Login/login_correct.robot" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +30,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kapitannemo12345&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kapitannemo12345/Chamipons_hub_test_automation&quot;,
+    &quot;accountId&quot;: &quot;77c90254-f641-4c91-9985-b1979e223bfd&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -40,18 +51,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.login.robot.executor&quot;: &quot;Run&quot;,
-    &quot;Python.login_test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.login.robot.executor": "Run",
+    "Python.login_test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\cycek\PycharmProjects\Champions_chub\Tests\Login" />
       <recent name="C:\Users\cycek\PycharmProjects\Champions_chub\Tests" />
+      <recent name="C:\Users\cycek\PycharmProjects\Champions_chub\Tests\Login" />
       <recent name="C:\Users\cycek\PycharmProjects\Champions_chub\Locators" />
       <recent name="C:\Users\cycek\PycharmProjects\Champions_chub" />
     </key>
@@ -72,6 +84,45 @@
       <option name="presentableId" value="Default" />
       <updated>1735466744313</updated>
     </task>
+    <task id="LOCAL-00001" summary="Login test added">
+      <option name="closed" value="true" />
+      <created>1736860053426</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736860053426</updated>
+    </task>
+    <task id="LOCAL-00002" summary="comments cleanup">
+      <option name="closed" value="true" />
+      <created>1736860253555</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736860253555</updated>
+    </task>
+    <task id="LOCAL-00003" summary="comments cleanup">
+      <option name="closed" value="true" />
+      <created>1736862608540</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736862608540</updated>
+    </task>
+    <task id="LOCAL-00004" summary="another comment cleanup">
+      <option name="closed" value="true" />
+      <created>1736862715336</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736862715336</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Login test added" />
+    <MESSAGE value="comments cleanup" />
+    <MESSAGE value="another comment cleanup" />
+    <option name="LAST_COMMIT_MESSAGE" value="another comment cleanup" />
   </component>
 </project>
